@@ -1,0 +1,11 @@
+mat-toolbar{
+  background-color: rgb(188, 207, 202);
+  color:rgb(255, 255, 255);
+}
+.centeredText{
+  margin:auto;
+}
+
+a{
+  text-decoration: none;
+}
